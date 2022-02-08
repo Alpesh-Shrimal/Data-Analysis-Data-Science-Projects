@@ -26,3 +26,8 @@ an e-commerce website.
 
 Clustering is an approach to unsupervised machine learning. Clustering is usually used to classify data into group with similarities that are more easily understood and manipulated. In this
 dataset, we will be performing k-means clustering and hierarchical clustering on credit card customers data.
+
+
+**Telecom Churn Classification**
+
+Customer churn is one of the biggest problem in telecom industry. Through this dataset, I am intending to apply some classification techniques to identify the customers who are most likely to churn
